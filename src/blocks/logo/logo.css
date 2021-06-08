@@ -1,0 +1,17 @@
+@import url(./_black/logo_black.css);
+
+.logo {
+  font-family: 'Roboto Slab', 'Roboto', sans-serif ;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+  color: #fff;
+  text-decoration: none;
+  height: 100%;
+}
+@media screen and (max-width: 767px){
+ .logo {
+   font-size: 16px;
+ }
+}

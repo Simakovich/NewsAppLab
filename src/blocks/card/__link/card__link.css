@@ -1,0 +1,8 @@
+.card__link {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-decoration: none;
+  padding-bottom: 24px;
+}

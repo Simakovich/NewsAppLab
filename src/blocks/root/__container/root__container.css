@@ -1,0 +1,4 @@
+.root__container {
+  background-image: url('./../../../images/news.jpg');
+  background-size: cover;
+}

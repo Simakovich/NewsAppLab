@@ -1,0 +1,17 @@
+.cards__button {
+  background-color: #fff;
+  padding: 20px 81px;
+  border-radius: 80px;
+  border: none;
+  outline: none;
+  font-family: 'Roboto','Roboto Slab',sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+}
+.cards__button:hover {
+  cursor: pointer;
+  opacity: 0.9;
+  transition: .3s;
+}

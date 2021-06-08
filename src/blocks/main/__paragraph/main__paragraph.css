@@ -1,0 +1,13 @@
+.main__paragraph {
+  font-family: 'Roboto','Roboto Slab',sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  margin: 0 0 24px 0;
+  max-width: 815px;
+}
+
+.main__paragraph:last-child {
+  margin-bottom: 0;
+}

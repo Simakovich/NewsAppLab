@@ -1,0 +1,6 @@
+@import url(__container/root__container.css);
+
+.root {
+  max-width: 1440px;
+  margin: 0 auto;
+}

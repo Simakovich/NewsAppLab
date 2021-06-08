@@ -1,0 +1,8 @@
+.search-result__not-found {
+  background-image: url(./../../../images/not-found.svg);
+  background-size: cover;
+  background-position: center;
+  width: 96px;
+  height: 96px;
+  margin: 0 auto 40px auto;
+}
