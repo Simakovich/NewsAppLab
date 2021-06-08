@@ -3,7 +3,7 @@ https://simakovich.github.io/NewsAppLab/
 ## Инструкция по установке проекта
 ### склонировать репозиторий
 ```
-git clone https://github.com/Simakovich/NewAppLab.git
+git clone https://github.com/Simakovich/NewsAppLab.git
 ```
 ### установить зависимости
 ```
