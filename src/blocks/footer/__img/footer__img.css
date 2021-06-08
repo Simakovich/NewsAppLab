@@ -1,8 +1,0 @@
-.footer__img {
-  width: 20px;
-  height: 20px;
-}
-.footer__img:hover {
-  opacity: .7;
-  transition: .3s;
-}
