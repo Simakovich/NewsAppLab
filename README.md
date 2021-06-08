@@ -1,5 +1,5 @@
 ## News_App
-https://github.com/Simakovich/NewAppLab
+https://simakovich.github.io/NewAppLab/
 ## Инструкция по установке проекта
 ### склонировать репозиторий
 ```
